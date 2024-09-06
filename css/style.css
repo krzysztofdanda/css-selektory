@@ -1,0 +1,14 @@
+p{
+    color: green;
+}
+h1{
+    background-color: yellow;
+    width: 150px;
+}
+h3{
+    background-color: darkorange;
+    width: 150px;
+}
+h1 + h3{
+    color: rgba(201, 23, 207, 0.686);
+}
